@@ -1,21 +1,18 @@
-# Gemfile.lock because this is a library, not a deployable application.
-Gemfile.lock
-
-# rcov generated
-coverage
-
-# rdoc generated
-rdoc
-
-# yard generated
-doc
-.yardoc
-
-# bundler config
+*.gem
+*.rbc
 .bundle
-
-# bundler installs here if bundle path is set to "vendor"
-vendor
-
-# generated builds
+.config
+.yardoc
+Gemfile.lock
+InstalledFiles
+_yardoc
+coverage
+doc/
+lib/bundler/man
 pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+vendor
