@@ -3,6 +3,16 @@ Optser
 
 Handle options from a set of arguments.
 
+Optser Links
+------------
+
+* Source: https://github.com/byu/optser
+* Continuous Integration: https://travis-ci.org/byu/optser
+  * [![Build Status](https://secure.travis-ci.org/byu/optser.png)](http://travis-ci.org/byu/optser)
+* RubyGems: http://rubygems.org/gems/optser
+* RubyDocs: http://rubydoc.info/gems/optser
+
+
 Installation
 ============
 

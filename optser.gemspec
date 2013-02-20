@@ -5,7 +5,7 @@ require 'optser/version'
 
 Gem::Specification.new do |gem|
   gem.name          = 'optser'
-  gem.version       = Optser::Version::STRING
+  gem.version       = Optser::VERSION
   gem.authors       = ['Benjamin Yu']
   gem.email         = ['benjaminlyu@gmail.com']
   gem.description   = 'Handle options from a set of arguments'
